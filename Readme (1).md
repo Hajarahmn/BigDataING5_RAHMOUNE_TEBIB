@@ -1,6 +1,8 @@
 ﻿#  BigDataING5_RAHMOUNE_TEBIB
 
-Nous avons décidé pour notre projet de se lancer dans un détecteur de compte twitter "bot" en temps réel. Effectivement, durant cette éléction .
+Durant les élections présidentielles américaines il y a eu une très grande quantité de Tweets et nombreux tweets provenaient de comptes ‘’bot’’, beaucoup de données autour des élections sont alors à récupérer via des API Twitter. 
+Nous avons décidé pour ce projet Big Data d’utiliser les technologies Spark pour détecter les suspicions de bots et dans un second temps construire des indicateurs autour de ces tweets à visualiser dans un tableau de bord.  Il s’agit d’indicateurs sur la provenance des tweets, l’ancienneté des comptes mais aussi de voir s’il y a des corrélations possible ente l’ancienneté du compte et les avis positifs la fraude par exemple ; le nombre d’indicateurs évoluera en fonction de notre avancée dans le projet. 
+
 
 # Structure du projet
 
